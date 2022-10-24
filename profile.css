@@ -1,0 +1,63 @@
+#name{
+    text-align: center; 
+    color:olive; 
+    background-color: lightgray;
+    border-radius:10px;
+}
+.profile-info{
+    text-align: center;
+    background-color:lightpink;
+    font-size: 20px;
+    padding:10px;
+    border-radius:10px;
+}
+.about{
+    margin: 0 10% 0 10%;
+    text-indent: 100px;
+    text-align: justify;
+}
+/*  skills section */
+#skill{
+    text-align: center;
+    background-color: rgb(222, 164, 55);
+    border-radius:10px;
+}
+.skills{
+    margin-right: 10px;
+    width: 55px;
+    height: 65px;   
+}
+
+/* Hobbies section */
+.hobby{
+    text-align: center;
+    background-color: lightcoral;
+    border-radius:10px;
+}
+.hobimg{
+    width: 80px;
+    height: 75px;
+    margin: 1%;
+}
+
+.map{
+    text-align: center;
+    background-color: rgb(244, 77, 244);
+    border-radius:10px;
+}
+/* contact details */
+.contact{
+    text-align: center;
+    background-color: lightblue;
+    border-radius:10px;
+}
+
+.con{
+    margin-right: 10px;
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
+    background-color: lightgreen;
+    border-radius:10px;
+}
